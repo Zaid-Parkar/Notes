@@ -275,3 +275,62 @@ else{
   </body>
 
 </html>
+
+<style>
+  body {
+    .html {
+      font-size: 62.5%;
+    }
+  }
+
+  .footer-container {
+    width: 100%;
+  }
+
+  @media(max-width:400px) {
+    html {
+      font-size: 25%;
+    }
+
+
+  }
+
+  @media(min-width:401px) and (max-width:672px) {
+    html {
+      font-size: 35%;
+    }
+
+
+  }
+
+  @media(min-width:673px) and (max-width:768px) {
+    html {
+      font-size: 50%;
+    }
+
+
+  }
+
+  @media(min-width:769px) and (max-width:1000px) {
+    html {
+      font-size: 60%;
+    }
+
+
+  }
+
+  @media(min-width:1001px) and (max-width:1200px) {
+    html {
+      font-size: 70%;
+    }
+
+
+  }
+
+  @media(min-width:1201px) {
+    html {
+      font-size: 100%;
+    }
+
+  }
+</style>
