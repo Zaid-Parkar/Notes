@@ -123,11 +123,9 @@ else{
             <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
+            <a class="nav-link" href="https://www.linkedin.com/in/zaid-parkar-06b15221b/">Contact me</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Contact Us</a>
-          </li>
+      
 
         </ul>
         <form class="form-inline my-2 my-lg-0">
@@ -268,7 +266,7 @@ else{
     <div class="footer-container">
       <footer class="bg-dark expanded-lg text-center text-white fixed-bottom p-1">
         <div class="text-center " style="background-color: rgba(0, 0, 0, 0.2);">
-          © 2022 Copyright:
+          © 2022 Copyright: Zaid Parkar
         </div>
       </footer>
     </div>
